@@ -8,3 +8,10 @@ https://github.com/obra/superpowers
 2. REMOVED: executing-plans
 3. REMOVED: finishing-a-development-branch
 4. REMOVED: writing-skills
+
+## Gstack
+
+https://github.com/garrytan/gstack
+
+1. REMOVED: browse
+2. REMOVED: setup-browser-cookies
